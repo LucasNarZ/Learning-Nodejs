@@ -1,0 +1,24 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasNarZ/Learning-Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasNarZ/Learning-Nodejs/issues"
+  },
+  "homepage": "https://github.com/LucasNarZ/Learning-Nodejs#readme",
+  "dependencies": {
+    "pg": "^8.11.1",
+    "react": "^18.2.0",
+    "tailwind": "^4.0.0"
+  }
+}
